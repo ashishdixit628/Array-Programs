@@ -17,10 +17,10 @@ int main() {
         cout << n << "  ";
 
         //  calculate the sum
-        sum = n;
+        sum = sum + n;
 
         // count the no. of array elements
-        +count;
+        ++count;
     }
 
     // print the sum
